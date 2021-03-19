@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kilo Farms</string>
+    <string name="register_button">Don\'t have an account? <b>Register Here</b></string>
+    <string name="login_button">Already have an account? <b>Login Here</b></string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="units">
+        <item>KG</item>
+        <item>Piece</item>
+    </string-array>
+    <string-array name="type">
+        <item>Vegetables</item>
+        <item>Fruits</item>
+    </string-array>
+
+</resources>
